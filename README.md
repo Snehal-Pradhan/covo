@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="public/logo-readme.png" alt="covo logo" width="450" >
+  <img src="public/logo-readme.png" alt="covo logo" width="250" >
 </p>
 
 
